@@ -56,8 +56,8 @@
 
 <!-- GitHub Stats & Streak (Private + All-time commits shoho) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tawhid-11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawhid-11&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=tawhid-11&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawhid-11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
