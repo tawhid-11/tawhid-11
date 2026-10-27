@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Md. TauhidIslam</h1>
-<h3 align="center">💻 Passionate about Software Engineer | Machine Learning | Full-Stack Software Development 🔍 Interested in AI, Cybersecurity 📚 Currently Completed B.Sc. in Computer Science & Engineering 🚀 Exploring .NET, Python, Angular, SQL Server</h3>
+<h1 align="center">Hi, I'm Md. TauhidIslam</h1>
+<h3 align="center"> Passionate about Software Engineering | Machine Learning | Full-Stack Software Development. Interested in AI and Cybersecurity.  Currently completed B.Sc. in Computer Science & Engineering.  Exploring .NET, Python, Angular, SQL Server</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tawhid-11&label=Profile%20views&color=0e75b6&style=flat" alt="tawhid-11" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a> </p>
 
-- 🔭 I’m currently working as a Junior Full Stack Software Engineer at Global Software Architects(GSA)
+-  I’m currently working as a Junior Full Stack Software Engineer at Global Software Architects(GSA)
 
-- 🌱 I’m currently learning **Angular, .Net, Testing(Unit, Integration, System), SQL, Azure, Git, CI&CD, Docker **
+-  I’m currently learning **Angular, .Net, Testing(Unit, Integration, System), SQL, Azure, Git, CI&CD, Docker **
 
-- 👯 I’m looking to collaborate on **Many Software project**
+-  I’m looking to collaborate on ** many software projects **
 
-- 👨‍💻 All of my projects are available at [https://github.com/tawhid-11](https://github.com/tawhid-11)
+-  All of my projects are available at [https://github.com/tawhid-11](https://github.com/tawhid-11)
 
-- 💬 Ask me about **Angular**
+-  Ask me about **Angular**
 
-- 📫 How to reach me **tshakib25@gmail.com**
+-  How to reach me: **tshakib25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
