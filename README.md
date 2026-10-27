@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Md. TauhidIslam</h1>
-<h3 align="center"> Passionate about Software Engineering | Machine Learning | Full-Stack Software Development. Interested in AI and Cybersecurity.  Currently completed B.Sc. in Computer Science & Engineering.  Exploring .NET, Python, Angular, SQL Server</h3>
+<h3 align="center"> Passionate about Software Engineering | Machine Learning | Full-Stack Software Development. Interested in AI and Cybersecurity. I recently completed a B.Sc. in Computer Science & Engineering.  Exploring .NET, Python, Angular, SQL Server</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tawhid-11&label=Profile%20views&color=0e75b6&style=flat" alt="tawhid-11" /> </p>
 
@@ -56,9 +56,8 @@
 
 <!-- GitHub Stats & Streak (Private + All-time commits shoho) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tawhid-11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawhid-11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tawhid-11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawhid-11&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
 </div>
-
 
 
