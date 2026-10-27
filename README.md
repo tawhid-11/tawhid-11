@@ -15,14 +15,9 @@
 
 -  Ask me about **Angular**
 
--  How to reach me: **tshakib25@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-
- Connect With Me
-
 <p align="left">
   <a href="https://linkedin.com/in/md-tauhid-islam-146462140" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -45,18 +40,23 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+<!-- Top Languages (Private Repo shoho) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawhid-11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawhid-11&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Langs" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tawhid-11/tawhid-11/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tawhid-11/tawhid-11/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tawhid-11/tawhid-11/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Snake Animation (Centered) -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tawhid-11/tawhid-11/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tawhid-11/tawhid-11/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tawhid-11/tawhid-11/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
+<!-- GitHub Stats & Streak (Private + All-time commits shoho) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tawhid-11&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tawhid-11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tawhid-11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
