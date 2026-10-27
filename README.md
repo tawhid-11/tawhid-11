@@ -13,7 +13,7 @@
 
 -  All of my projects are available at [https://github.com/tawhid-11](https://github.com/tawhid-11)
 
--  Ask me about **Angular**
+-  Ask me about **Angular** / **C#** / **Dot NET** / **Angular** /  **MSSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
