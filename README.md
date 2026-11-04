@@ -19,7 +19,7 @@
 <p align="left">
 </p>
 <p align="left">
-  <a href="https://linkedin.com/in/md-tauhid-islam-146462140" target="_blank">
+  <a href="https://www.linkedin.com/in/md-tauhid-islam-146406240" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tshakib25@gmail.com">
