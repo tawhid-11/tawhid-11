@@ -12,6 +12,8 @@
 -  I’m looking to collaborate on ** many software projects **
 
 -  All of my projects are available at [https://github.com/tawhid-11](https://github.com/tawhid-11)
+  
+-  Mainly professional enterprise projects are private
 
 -  Ask me about **Angular** / **C#** / **Dot NET** / **Angular** /  **MSSQL**
 
